@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to Home Assistant via the REST API. Prov
 
 **GitHub**: https://github.com/LegionIO/lex-home-assistant
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
